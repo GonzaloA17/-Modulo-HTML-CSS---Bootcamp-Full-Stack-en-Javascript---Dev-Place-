@@ -1,0 +1,63 @@
+h1{
+    color: green;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color:coral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+}
+
+h2{
+    color: firebrick;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p1{
+    color: darkblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}
+
+p2{
+    color:chartreuse;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+.footer{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    text-align: right;
+}
+
+.Lavandina{
+    background-color:blueviolet;
+    color: white;
+}
+
+.Lustramuebles{
+    background-color: chocolate;
+    color: black;
+}
+
+.Derecho{
+    color: red;
+}
+
+.Desodorante {
+    background-color: teal;
+    color: white;
+}
+
+.Desinfectante{
+    background-color: tomato;
+    color:darkgrey;
+}
